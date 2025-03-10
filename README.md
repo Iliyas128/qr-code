@@ -42,12 +42,14 @@ Each entry includes the text and the corresponding QR code.
    Provides links to navigate between different sections of the application:
 
 Generate QR Code
-
+![generate](image-3.png)
 Scan QR Code
-
+![Wiki](image-2.png)
 Generate History
+![history](image-1.png)
 
 Scan History
+(image.png)
 
 6. # Layout
    The main layout component that includes the navigation bar and routes to different components.
